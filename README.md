@@ -4,7 +4,6 @@ Following modules used
 * DecisionTreeClassifier (iris.py)  
 * DecisionTreeRegressor  
 * RandomForestClassifier (iris.py)
-* RandomForestRegressor (facecompletion.py)
 * ExtraTreesRegressor (facecompletion.py)
 * LinearRegression (facecompletion.py)
   
